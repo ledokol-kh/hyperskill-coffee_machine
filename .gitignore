@@ -1,0 +1,3 @@
+*.pyc
+/hstest/
+/machine/__pycache__
